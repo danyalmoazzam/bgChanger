@@ -8,7 +8,7 @@ function App() {
       style={{ backgroundColor: color }}
     >
       <div className="fixed flex flex-wrap justify-center top-[14rem] inset-x-8">
-        <h1 className="text-5xl text-white font-[500] font-['Outfit']">
+        <h1 className="text-center text-[3rem] text-white font-[500] font-['Outfit']">
           BgChanger by Danyal Moazzam
         </h1>
       </div>
