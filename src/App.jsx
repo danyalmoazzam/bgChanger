@@ -8,11 +8,11 @@ function App() {
       style={{ backgroundColor: color }}
     >
       <div className="fixed flex flex-wrap justify-center top-[18rem] inset-x-10">
-        <h1 className="text-5xl text-white font-bold font-['Gilroy']">
+        <h1 className="text-5xl text-white font-bold font-['Helvetica']">
           BgChanger by Danyal Moazzam
         </h1>
       </div>
-      <div className="fixed flex flex-wrap justify-center bottom-12 inset-x-0 px-2 font-[500] font-['Gilroy']">
+      <div className="fixed flex flex-wrap justify-center bottom-12 inset-x-0 px-2 font-[500] font-['Helvetica']">
         <div className="flex flex-wrap justify-center gap-3 shadow-lg bg-white px-2 py-3 rounded-3xl">
           <button
             onClick={() => setColor("red")}
