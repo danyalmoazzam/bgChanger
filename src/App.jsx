@@ -7,8 +7,8 @@ function App() {
       className="w-full h-screen duration-200"
       style={{ backgroundColor: color }}
     >
-      <div className="fixed flex flex-wrap justify-center top-[18rem] inset-x-10">
-        <h1 className="text-5xl text-white font-bold font-['Helvetica']">
+      <div className="fixed flex flex-wrap justify-center top-[14rem] inset-x-8">
+        <h1 className="text-5xl text-white font-[500] font-['Outfit']">
           BgChanger by Danyal Moazzam
         </h1>
       </div>
